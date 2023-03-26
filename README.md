@@ -8,6 +8,8 @@ Also, some textures have been changed and a few new ones have been added.
 
 There is full compatibility with the fluid system in Woof and Doom Retro.
 
+### Download - [Latest Release](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-ColossalDTex/releases/latest/download/ColossalDTex.v1.wad)
+
 This texturepack is assembled from:
 - 32in24-15tex_v2.wad
 - Resources from KDiKDiZD
