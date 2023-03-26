@@ -4,6 +4,10 @@
 
 Texture pack assembled by DRON12261.
 
+Also, some textures have been changed and a few new ones have been added. 
+
+There is full compatibility with the fluid system in Woof and Doom Retro.
+
 This texturepack is assembled from:
 - 32in24-15tex_v2.wad
 - Resources from KDiKDiZD
