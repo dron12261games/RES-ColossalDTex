@@ -1,0 +1,8 @@
+Texture pack assembled by DRON12261.
+
+This texturepack is assembled from:
+32in24-15tex_v2.wad
+Resources from KDiKDiZD
+jimmytex.wad
+sstex.wad
+rfhelltx.wad
