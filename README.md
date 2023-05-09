@@ -1,6 +1,6 @@
 # ColossalDTex [BOOM+, 8200+ textures]
 
-# STATUS: ✅RELEASED
+# STATUS: 🏁WORK IN PROGRESS
 
 Texture pack assembled by DRON12261.
 
