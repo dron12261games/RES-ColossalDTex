@@ -18,12 +18,12 @@ This texturepack is assembled from:
 - rfhelltx.wad
 
 # Screenshots:
-![Screen1](https://i.ibb.co/d2qRvWq/435.png)
-![Screen2](https://i.ibb.co/WcBmRM8/213123.png)
+![Screen1](./screens/1.png)
+![Screen2](./screens/2.png)
 
 ## Example from [MidNightmare](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-MidNightmare):
-![Screen3](https://i.ibb.co/db4hQZz/Screenshot-Doom-20230326-144338.png)
-![Screen4](https://i.ibb.co/Qd0skHP/Screenshot-Doom-20230326-144838.png)
-![Screen5](https://i.ibb.co/WggQdb8/Screenshot-Doom-20230326-144818.png)
-![Screen6](https://i.ibb.co/DCjYk54/Screenshot-Doom-20230326-144631.png)
-![Screen7](https://i.ibb.co/6Rpf0jS/Screenshot-Doom-20230326-144616.png)
+![Screen3](./screens/3.png)
+![Screen4](./screens/4.png)
+![Screen5](./screens/5.png)
+![Screen6](./screens/6.png)
+![Screen7](./screens/7.png)
