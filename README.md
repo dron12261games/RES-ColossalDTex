@@ -1,6 +1,6 @@
 # ColossalDTex [BOOM+, 8200+ textures]
 
-# STATUS: 📦EARLY RELEASE
+# STATUS: ⛔CANCELLED
 
 Texture pack assembled by DRON12261.
 
